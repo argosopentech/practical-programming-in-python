@@ -1,0 +1,1 @@
+Write a function that takes one parameter and returns True if the parameter is even and False if it isn't. True and False are of type bool, bool types can only be True or False. Use your function to get an int from a user and tell them if it is even or not.

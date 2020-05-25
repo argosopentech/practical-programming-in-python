@@ -1,0 +1,1 @@
+Write a program that asks the user for input, if they enter "yes" print out 1-100 otherwise don't print anything. To test if two values are equal use the == operator. For example, 3 == 3 -> True.
